@@ -60,4 +60,4 @@ Bilingual in English and Japanese.
 
 Portfolio: [lshankarportfolio.netlify.app](https://lshankarportfolio.netlify.app)  
 LinkedIn: [linkedin.com/in/likitha-s14](https://linkedin.com/in/likitha-s14)  
-Email: [your email here]
+Email: likithashankar14@gmail.com
