@@ -26,13 +26,12 @@ def build_table(repos):
         url = repo["html_url"]
         description = repo.get("description") or "No description provided"
         language = repo.get("language") or "-"
-        stars = repo.get("stargazers_count", 0)
-        rows.append(f"| [{name}]({url}) | {description} | {language} | {stars} |")
+        rows.append(f"| [{name}]({url}) | {description} | {language} |")
 
     rows_str = "\n".join(rows)
     return f"""<!-- LATEST-REPOS:START -->
-| Project | Description | Language | Stars |
-|---|---|---|---|
+| Project | Description | Built with |
+|---|---|---|
 {rows_str}
 <!-- LATEST-REPOS:END -->"""
 
