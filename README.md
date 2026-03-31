@@ -73,10 +73,10 @@
 <!-- LATEST-REPOS:START -->
 | Project | Description | Built with |
 |---|---|---|
-| [Linux-Security-Agent](https://github.com/likitha-shankar/Linux-Security-Agent) | Kernel-level Linux security framework using eBPF/BCC. 95%+ detection accuracy. | Python |
-| [cloud-computing-benchmark](https://github.com/likitha-shankar/cloud-computing-benchmark) | Bare metal vs containers vs VMs across CPU, memory, disk, network on Chameleon Cloud | Python |
-| [memory-storage-benchmark](https://github.com/likitha-shankar/memory-storage-benchmark) | Multi-threaded BLAKE3 hash engine with external merge sort for large-dataset profiling | C++ |
-| [Minix_PM_Server_Enhancement](https://github.com/likitha-shankar/Minix_PM_Server_Enhancement) | Enhanced MINIX PM server with custom scheduling, memory management, and IPC | C |
+| [health-data-conversion-platform](https://github.com/likitha-shankar/health-data-conversion-platform) | No description provided | TypeScript |
+| [qMEMO](https://github.com/likitha-shankar/qMEMO) | PQC cryptographic benchmarking suite — Falcon, ML-DSA, SLH-DSA vs ECDSA/Ed25519 | C |
+| [Medcite](https://github.com/likitha-shankar/Medcite) | No description provided | Python |
+| [AI-assisted-LLM-apps](https://github.com/likitha-shankar/AI-assisted-LLM-apps) | AI-Assisted Medical Case Generator — health informatics study & extension of Dr. David Liebovitz's repo | Python |
 <!-- LATEST-REPOS:END -->
 
 > This table auto-updates daily via GitHub Actions — newest repos appear first.
