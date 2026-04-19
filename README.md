@@ -73,7 +73,7 @@
 <!-- LATEST-REPOS:START -->
 | Project | Description | Built with |
 |---|---|---|
-| [qMEMO](https://github.com/likitha-shankar/qMEMO) | PQC cryptographic benchmarking suite — Falcon, ML-DSA, SLH-DSA vs ECDSA/Ed25519 | C |
+| [qMEMO](https://github.com/likitha-shankar/qMEMO) | No description provided | C |
 | [health-data-conversion-platform](https://github.com/likitha-shankar/health-data-conversion-platform) | No description provided | TypeScript |
 | [Medcite](https://github.com/likitha-shankar/Medcite) | No description provided | Python |
 | [AI-assisted-LLM-apps](https://github.com/likitha-shankar/AI-assisted-LLM-apps) | AI-Assisted Medical Case Generator — health informatics study & extension of Dr. David Liebovitz's repo | Python |
