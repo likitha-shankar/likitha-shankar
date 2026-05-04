@@ -73,10 +73,10 @@
 <!-- LATEST-REPOS:START -->
 | Project | Description | Built with |
 |---|---|---|
-| [qMEMO](https://github.com/likitha-shankar/qMEMO) | No description provided | C |
 | [health-data-conversion-platform](https://github.com/likitha-shankar/health-data-conversion-platform) | No description provided | TypeScript |
 | [Medcite](https://github.com/likitha-shankar/Medcite) | No description provided | Python |
 | [AI-assisted-LLM-apps](https://github.com/likitha-shankar/AI-assisted-LLM-apps) | AI-Assisted Medical Case Generator — health informatics study & extension of Dr. David Liebovitz's repo | Python |
+| [Linux-Security-Agent](https://github.com/likitha-shankar/Linux-Security-Agent) | Kernel-level Linux security framework using eBPF/BCC and Python. Achieves 95%+ detection accuracy with minimal CPU overhead. Features cloud-integrated CLI dashboard for automated threat remediation and real-time security monitoring. | Python |
 <!-- LATEST-REPOS:END -->
 
 > This table auto-updates daily via GitHub Actions — newest repos appear first.
