@@ -73,10 +73,10 @@
 <!-- LATEST-REPOS:START -->
 | Project | Description | Built with |
 |---|---|---|
+| [token-bucket-rate-limiter](https://github.com/likitha-shankar/token-bucket-rate-limiter) | No description provided | Python |
 | [hipaa-bridge](https://github.com/likitha-shankar/hipaa-bridge) | Local clinical text de-identification with reversible, deterministic PHI tokens. Strip PHI before it leaves your machine; restore responses locally. | Python |
 | [qMEMO](https://github.com/likitha-shankar/qMEMO) | quantum-resistant memo blockchain | C |
 | [health-data-conversion-platform](https://github.com/likitha-shankar/health-data-conversion-platform) | No description provided | TypeScript |
-| [Medcite](https://github.com/likitha-shankar/Medcite) | No description provided | Python |
 <!-- LATEST-REPOS:END -->
 
 > This table auto-updates daily via GitHub Actions — newest repos appear first.
