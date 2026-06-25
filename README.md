@@ -73,7 +73,7 @@
 <!-- LATEST-REPOS:START -->
 | Project | Description | Built with |
 |---|---|---|
-| [token-bucket-rate-limiter](https://github.com/likitha-shankar/token-bucket-rate-limiter) | No description provided | Python |
+| [token-bucket-rate-limiter](https://github.com/likitha-shankar/token-bucket-rate-limiter) | Token bucket rate limiter service built with FastAPI — supports per-client limits, burst handling, live metrics dashboard, and Render deployment | Python |
 | [hipaa-bridge](https://github.com/likitha-shankar/hipaa-bridge) | Local clinical text de-identification with reversible, deterministic PHI tokens. Strip PHI before it leaves your machine; restore responses locally. | Python |
 | [qMEMO](https://github.com/likitha-shankar/qMEMO) | quantum-resistant memo blockchain | C |
 | [health-data-conversion-platform](https://github.com/likitha-shankar/health-data-conversion-platform) | No description provided | TypeScript |
