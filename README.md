@@ -73,10 +73,10 @@
 <!-- LATEST-REPOS:START -->
 | Project | Description | Built with |
 |---|---|---|
-| [DischargeIQ](https://github.com/likitha-shankar/DischargeIQ) | AI-powered patient discharge document understanding system | Python |
 | [NewsReel](https://github.com/likitha-shankar/NewsReel) | No description provided | Python |
 | [white-hat-scanner](https://github.com/likitha-shankar/white-hat-scanner) | Dual-mode white-hat security scanner: interprocedural static analysis (Mode 2) + passive live-URL surface scan (Mode 1). VS Code extension, Chrome plugin, and web UI. | JavaScript |
 | [hospitalmind](https://github.com/likitha-shankar/hospitalmind) | Five LLM agents run an ER. The patients lie. The nurse gets fooled. Nobody scripted any of it. Emergent multi-agent simulation on SAGA + llama3.2, fully local. | Python |
+| [token-bucket-rate-limiter](https://github.com/likitha-shankar/token-bucket-rate-limiter) | Token bucket rate limiter service built with FastAPI — supports per-client limits, burst handling, live metrics dashboard, and Render deployment | Python |
 <!-- LATEST-REPOS:END -->
 
 > This table auto-updates daily via GitHub Actions — newest repos appear first.
